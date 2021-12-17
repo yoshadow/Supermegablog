@@ -1,2 +1,2 @@
 # Supermegablog
-Este e sun blog superchido del curso de Git y Github
+Este es un blog superchido del curso de Git y Github
